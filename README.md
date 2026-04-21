@@ -15,7 +15,7 @@ I’m not a career engineer — I mostly learn by building things that I actuall
 
 ## What I'm Working On
 
-**Arca**
+**[Arca](https://arca.ph)**
 Training and placing AI-native talent from the Philippines with companies that want help actually using AI tools in production.
 
 **[Yibby](https://yibby.ai)**
