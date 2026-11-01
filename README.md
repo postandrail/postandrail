@@ -1,89 +1,18 @@
 # Hi, I'm Jake 👋
 
-I build small systems that try to make useful things a little easier.
+I'm building **[Arca.ph](https://arca.ph)**.
 
-Most of my work sits somewhere between:
+Arca.ph is a talent marketplace built for the way companies now hire: their own AI agents search Arca.ph through our MCP server to find and hire remote talent anywhere in the world.
 
-* AI tools
-* automation
-* marketplaces
-* and scrappy internet businesses
+Every candidate takes proctored tests, so an agent (or a person) can see what someone can actually do before hiring them.
 
-I’m not a career engineer — I mostly learn by building things that I actually need and figuring it out as I go.
+## What I'm working on
+- The Arca.ph MCP server, so a company's AI agent can search, shortlist and hire talent directly
+- Proctored skills tests that show real ability, not just a resume
+- Training remote talent to work well with AI tools
 
----
+## How I work
+Simple tools, fast iteration, ship early. Most repos here are experiments and prototypes.
 
-## What I'm Working On
-
-**[Arca](https://arca.ph)**
-Training and placing AI-native talent from the Philippines with companies that want help actually using AI tools in production.
-
-**[Yibby](https://yibby.ai)**
-A gift recommendation marketplace. The goal is to help people find thoughtful gifts without spending hours searching the internet. I'm experimenting with different ways to match people with gifts based on personality types and interests.
-
-**[BriarBear](https://briarbear.ai)**
-A small collection of projects and experiments around AI systems, automation, and software tools.
-
----
-
-## Things I Like Building
-
-Some random things I've built or worked on:
-
-* Chrome extensions
-* marketplaces and directories
-* automation pipelines
-* AI workflows for marketing and operations
-* small SaaS tools
-* internal tools that remove annoying manual work
-
-Most projects start as:
-*"This is annoying, I bet a script could do it."*
-
----
-
-## How I Work
-
-I like:
-
-* simple tools
-* fast iteration
-* shipping early
-* fixing things later
-
-A lot of what I build is experimental and rough around the edges.
-But occasionally something useful comes out of it.
-
----
-
-## Current Interests
-
-Right now I'm spending a lot of time thinking about:
-
-* AI-native workflows
-* small teams with large leverage
-* training people to work with AI tools effectively
-* agentic systems that actually complete tasks
-* practical automation (not demos)
-
----
-
-## If You're Exploring the Repos
-
-Most of the repos here are:
-
-* experiments
-* prototypes
-* half-finished ideas
-* tools built for internal use
-
-Some things work well.
-Some things definitely don't.
-
----
-
-## Say Hi
-
-If you're building interesting AI systems, automation tools, or weird internet projects, feel free to reach out.
-
-I'm always curious to see what other people are working on.
+## Say hi
+If you're building with AI agents and need people who can do the work, visit [arca.ph](https://arca.ph).
