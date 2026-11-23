@@ -1,18 +1,13 @@
-# Hi, I'm Jake 👋
+### Hi, I'm Jake.
 
-I'm building **[Arca.ph](https://arca.ph)**.
+I build companies. Right now that's [1Alexander](https://1alexander.ai), an AI search agency that helps businesses get named when buyers ask ChatGPT, Google AI Overviews, Perplexity and Grok.
 
-Arca.ph is a talent marketplace built for the way companies now hire: their own AI agents search Arca.ph through our MCP server to find and hire remote talent anywhere in the world.
+Small team. A lot of AI agents. Nothing goes live until you approve it.
 
-Every candidate takes proctored tests, so an agent (or a person) can see what someone can actually do before hiring them.
+I also write [The End of Entrepreneurs](https://theendofentrepreneurs.com), about where entrepreneurship goes as AI gets smarter than all of us.
 
-## What I'm working on
-- The Arca.ph MCP server, so a company's AI agent can search, shortlist and hire talent directly
-- Proctored skills tests that show real ability, not just a resume
-- Training remote talent to work well with AI tools
+Along the way I founded [Arca.ph](https://arca.ph), a marketplace for vetted remote software engineers, and was CTO of Scout RFP through its 2019 acquisition by Workday. I also founded GameTank, which was acquired by Ubisoft.
 
-## How I work
-Simple tools, fast iteration, ship early. Most repos here are experiments and prototypes.
+A work in progress. The companies, too.
 
-## Say hi
-If you're building with AI agents and need people who can do the work, visit [arca.ph](https://arca.ph).
+[1alexander.ai](https://1alexander.ai) · [jakeparks.me](https://jakeparks.me) · [@jakeparksx](https://x.com/jakeparksx)
